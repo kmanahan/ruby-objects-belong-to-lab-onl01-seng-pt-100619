@@ -1,4 +1,4 @@
-Class Artist 
+class Artist 
 attr_accessor :name
 
 def initialize 
